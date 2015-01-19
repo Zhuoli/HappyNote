@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/pre-dexed/debug/classes-e709cd5fe42f327fb7de994348f7bbd48ac9be75.jar" />
+    </item>
+    <item
+        jar="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/pre-dexed/debug/classes-2988f2b933ee1ae5538769e8563b42dd4aed2d3f.jar" />
+    </item>
+    <item
+        jar="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-960e9afab30bc3563839ae03b3083c398de1c8b5.jar" />
+    </item>
+    <item
+        jar="/Users/zhuoli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/zhuoli/AndroidStudioProjects/NoteBook/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-942c57d802f8f628b441be92d7588f3fedd288e3.jar" />
+    </item>
+
+</items>
